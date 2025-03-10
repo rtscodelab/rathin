@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+   
+  }
+  
+              .topnav {
+    background-color: #333;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: right;
+    color: #f7f7f7;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #9debe4;
+    color: black;
+  }
+  .logo {
+    float: left;
+    color: white;
+    text-align: center;
+    font-size: 36px;
+  }
